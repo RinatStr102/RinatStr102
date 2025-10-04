@@ -28,10 +28,10 @@
 <!-- skillicons -->
 <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,linux,idea,maven,gradle,jira,postgres,bash,jenkins,swagger,kafka&perline=7" />
 
-<!-- руками добавляем -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" width="50" height="50" alt="TestNG" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" width="50" height="50" alt="JUnit" />
-<img src="https://cdn.worldvectorlogo.com/logos/rest-api.svg" width="50" height="50" alt="REST API" />
+<!-- локальные иконки -->
+<img src="assets/icons/testng.svg" width="50" height="50" alt="TestNG" />
+<img src="assets/icons/junit.svg" width="50" height="50" alt="JUnit" />
+<img src="assets/icons/rest-api.svg" width="50" height="50" alt="REST API" />
 
 </div>
 
@@ -48,9 +48,13 @@
 ## 📊 GitHub Статистика  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinatStr102&show_icons=true&theme=dark&title_color=DAA520&icon_color=D32F2F&text_color=ffffff&bg_color=121212&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinatStr102&theme=dark&ring=DAA520&fire=D32F2F&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=999&hide_border=true&background=121212" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatStr102&layout=compact&theme=dark&title_color=DAA520&text_color=ffffff&bg_color=121212&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=RinatStr102&show_icons=true&theme=dark&title_color=DAA520&icon_color=D32F2F&text_color=ffffff&bg_color=000000,0D0D0D,121212,1A1A1A&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RinatStr102&theme=dark&ring=DAA520&fire=D32F2F&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=999&hide_border=true&background=000000,0D0D0D,121212,1A1A1A" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatStr102&layout=compact&theme=dark&title_color=DAA520&text_color=ffffff&bg_color=000000,0D0D0D,121212,1A1A1A&hide_border=true" />
+
 </div>
 
 ---
@@ -58,7 +62,7 @@
 ## 📈 Активность  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RinatStr102&bg_color=121212&color=DAA520&line=D32F2F&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RinatStr102&bg_color=000000,0D0D0D,121212&color=DAA520&line=D32F2F&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
