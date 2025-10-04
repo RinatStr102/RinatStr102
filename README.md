@@ -28,11 +28,6 @@
 <!-- skillicons -->
 <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,linux,idea,maven,gradle,jira,postgres,bash,jenkins,swagger,kafka&perline=7" />
 
-<!-- локальные иконки -->
-<img src="assets/icons/testng.svg" width="50" height="50" alt="TestNG" />
-<img src="assets/icons/junit.svg" width="50" height="50" alt="JUnit" />
-<img src="assets/icons/rest-api.svg" width="50" height="50" alt="REST API" />
-
 </div>
 
 ---
