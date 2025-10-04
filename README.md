@@ -1,13 +1,13 @@
 <h1 align="center">
-  ⚡ <span style="color:#DAA520;">Rinat</span> — QA Engineer  
+  ⚡ <span style="color:#DAA520;">Rinat</span> — <span style="color:#D32F2F;">QA Engineer</span>  
 </h1>
 
 <h3 align="center">
-  🕵️ Web | 📱 Mobile | 🤖 Automation  
+  🕵️ <span style="color:#DAA520;">Web</span> | 📱 <span style="color:#DAA520;">Mobile</span> | 🤖 <span style="color:#D32F2F;">Automation</span>  
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=DAA520&center=true&vCenter=true&width=650&lines=Testing+is+my+craft;Automation+is+my+weapon;Breaking+bugs+before+they+break+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=DAA520&center=true&vCenter=true&width=700&lines=Testing+is+my+craft;Automation+is+my+weapon;Breaking+bugs+before+they+break+production" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,10 +25,10 @@
 
 <div align="center">
 
-<!-- Основные -->
+<!-- skillicons -->
 <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,linux,idea,maven,gradle,jira,postgres,bash,jenkins,swagger,kafka&perline=7" />
 
-<!-- Дополнительно руками -->
+<!-- руками добавляем -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" width="50" height="50" alt="TestNG" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" width="50" height="50" alt="JUnit" />
 <img src="https://cdn.worldvectorlogo.com/logos/rest-api.svg" width="50" height="50" alt="REST API" />
@@ -40,7 +40,7 @@
 ## 🏆 GitHub Highlights  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RinatStr102&theme=onestar&no-frame=true&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RinatStr102&theme=onestar&no-frame=true&margin-w=5&margin-h=5&title=Commits,Repositories,PullRequest,Stars,Followers" />
 </div>
 
 ---
@@ -48,8 +48,8 @@
 ## 📊 GitHub Статистика  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinatStr102&show_icons=true&theme=dark&title_color=DAA520&icon_color=DAA520&text_color=ffffff&bg_color=121212&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinatStr102&theme=dark&ring=DAA520&fire=DAA520&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=999&hide_border=true&background=121212" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RinatStr102&show_icons=true&theme=dark&title_color=DAA520&icon_color=D32F2F&text_color=ffffff&bg_color=121212&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinatStr102&theme=dark&ring=DAA520&fire=D32F2F&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=999&hide_border=true&background=121212" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinatStr102&layout=compact&theme=dark&title_color=DAA520&text_color=ffffff&bg_color=121212&hide_border=true" />
 </div>
 
@@ -58,7 +58,7 @@
 ## 📈 Активность  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RinatStr102&bg_color=121212&color=DAA520&line=DAA520&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RinatStr102&bg_color=121212&color=DAA520&line=D32F2F&point=FFFFFF&hide_border=true" />
 </div>
 
 ---
